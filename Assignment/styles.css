@@ -1,0 +1,81 @@
+body{
+    background-color:bisque;
+    
+}
+.headings{
+    padding: 10px;
+}
+.article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    margin: 0 auto 20px
+}
+.Introduction{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+    background-color: rgb(235, 206, 170);
+    overflow: hidden;
+    margin: 0 auto 10px
+}
+.left{
+    width: 30pc;
+}
+.right{
+    width: 20pc;
+    margin: -30px;
+       
+}
+.background{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(209, 173, 209);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 auto 10px
+}
+.background h1{
+    width: 0 ;
+}
+.background p{
+    padding: 60px;
+    width: 50pc;
+}
+.pictures{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    margin: 0 auto 10px
+}
+.findings{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.recom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 10px;
+}
+.container{
+   text-align: center;
+    padding: 80px;
+    border-width: 20px;
+    background-color: rgb(212, 198, 180);
+    margin: 0 auto 20px;
+    border-radius: 20px;
+}
+
+.copyright {
+    padding: 20px;
+    color: white;
+    font-size: smaller;
+}
+.container-fluid{
+    height: 30px;
+    padding: 10apx;
+}
